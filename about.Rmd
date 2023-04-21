@@ -1,0 +1,13 @@
+## Author
+
+- **Name:** Yue(John) Su
+- **Email:** yuesu4@illinois.edu
+
+## Purpose
+The purpose of the application is to find the proportion of student in UIUC by each state in every year between 1975 to 2017, are they undergraduate,graduate or professional students? and then we find the percent for undergraduate student.
+
+## Data
+The data has 2241 rows with 5 columns(State,Year,Undergrad,Professional,Grad), these are represent that every year between 1975 to 2017, the number of each state undergrad, Professional or graduate students.
+
+## References
+wadefagen's Useful Datasets (https://github.com/wadefagen/datasets)
